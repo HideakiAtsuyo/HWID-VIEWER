@@ -1,0 +1,23 @@
+{
+  "name": "hwid-viewer",
+  "version": "1.0.0",
+  "description": "Get your HWID",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dany-LF/HWID-VIEWER.git"
+  },
+  "author": "Dany-LF",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dany-LF/HWID-VIEWER/issues"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "express": "^4.17.1",
+    "hwid": "^0.1.1"
+  }
+}
