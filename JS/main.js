@@ -10,7 +10,7 @@ app.get('/', function (req, res) {
 })
   
 app.listen(port, function () {
-  console.log(`Listening port: ${port}\nYou can also view your HWID here:\nlocalhost:${port}`)
+  console.log(`Listening port: ${port}\nYou can also view your HWID here:\nhttp://localhost:${port}`)
 })
 
 getHWID().then(id => console.log(chalk.bgRed.blue("HWID: "+id)));
