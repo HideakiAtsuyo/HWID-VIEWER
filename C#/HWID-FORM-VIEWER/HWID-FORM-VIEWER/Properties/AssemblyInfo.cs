@@ -4,7 +4,7 @@ using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 [assembly: AssemblyTitle("HWID-FORM-VIEWER")]
-[assembly: AssemblyDescription("Discord: Dany-LF#3539")]
+[assembly: AssemblyDescription("Discord: Hideaki#9897")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("HWID-FORM-VIEWER")]
