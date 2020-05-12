@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dany-LF/HWID-VIEWER.git"
+    "url": "git+https://github.com/HideakiAtsuyo/HWID-VIEWER.git"
   },
   "author": "Dany-LF",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Dany-LF/HWID-VIEWER/issues"
+    "url": "https://github.com/HideakiAtsuyo/HWID-VIEWER/issues"
   },
   "dependencies": {
     "chalk": "^3.0.0",
